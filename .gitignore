@@ -1,0 +1,22 @@
+# Environnements virtuels
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Base de données SQLite
+db.sqlite3
+
+# Fichiers secrets
+.env
+
+# Dossiers média générés
+media/
+
+# IDE / éditeur
+.vscode/
+.idea/
